@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TaskManagerAppFinal\TaskManagerAppFinal\bin\Debug\TaskManagerAppFinal.exe.config
+C:\Users\User\source\repos\TaskManagerAppFinal\TaskManagerAppFinal\bin\Debug\TaskManagerAppFinal.exe
+C:\Users\User\source\repos\TaskManagerAppFinal\TaskManagerAppFinal\bin\Debug\TaskManagerAppFinal.pdb
+C:\Users\User\source\repos\TaskManagerAppFinal\TaskManagerAppFinal\obj\Debug\TaskManagerAppFinal.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TaskManagerAppFinal\TaskManagerAppFinal\obj\Debug\TaskManagerAppFinal.Form1.resources
+C:\Users\User\source\repos\TaskManagerAppFinal\TaskManagerAppFinal\obj\Debug\TaskManagerAppFinal.Properties.Resources.resources
+C:\Users\User\source\repos\TaskManagerAppFinal\TaskManagerAppFinal\obj\Debug\TaskManagerAppFinal.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TaskManagerAppFinal\TaskManagerAppFinal\obj\Debug\TaskManagerAppFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TaskManagerAppFinal\TaskManagerAppFinal\obj\Debug\TaskManagerAppFinal.exe
+C:\Users\User\source\repos\TaskManagerAppFinal\TaskManagerAppFinal\obj\Debug\TaskManagerAppFinal.pdb
+C:\Users\User\source\repos\TaskManagerAppFinal\TaskManagerAppFinal\obj\Debug\TaskManagerAppFinal.EditTaskForm.resources
